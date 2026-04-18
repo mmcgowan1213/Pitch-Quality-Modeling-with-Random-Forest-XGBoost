@@ -34,3 +34,5 @@ plate_z
 release_spin_rate
 balls
 strikes
+
+This was completed as part of the SABR Analytics Certification Level 4 program.
